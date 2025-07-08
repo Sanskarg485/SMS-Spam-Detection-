@@ -14,7 +14,8 @@ A simple and interactive Streamlit web app that detects whether an SMS message i
 
 ---
 
-##💬 NLP Technique Used
+## 💬 NLP Technique Used
+
 This project uses TF-IDF (Term Frequency–Inverse Document Frequency), a classic NLP technique, to convert raw SMS messages into numerical features that can be processed by a machine learning algorithm.
 
 🔍 How it works:
