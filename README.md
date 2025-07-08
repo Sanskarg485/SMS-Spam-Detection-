@@ -28,3 +28,7 @@ A simple and interactive Streamlit web app that detects whether an SMS message i
    ```bash
    git clone https://github.com/yourusername/SMS-Spam-Detection.git
    cd SMS-Spam-Detection
+
+▶️ Run the App
+streamlit run app.py
+
