@@ -42,3 +42,5 @@ else:
             st.write("Thank you for using the SMS Spam Classifier! 😊")
             st.write("If you have any questions or need assistance, feel free to reach out!")
             st.write("You can also check the [GitHub repository](https://github.com/yourusername/SMS-Spam-Detection)")
+            st.markdown("Feel free to reach out for any questions or feedback!")
+            
